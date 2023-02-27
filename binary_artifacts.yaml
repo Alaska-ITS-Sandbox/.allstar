@@ -1,6 +1,4 @@
 optConfig:
   optOutStrategy: true
   disableRepoOverride: true
-  optOutRepos:
-    - MultipleProjectsSample
 action: issue
